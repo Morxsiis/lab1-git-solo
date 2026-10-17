@@ -2,3 +2,4 @@
 Przykład 2
 TO JEST BŁĄD
 ## Autor Angelika
+#STOPKA
